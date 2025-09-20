@@ -1,2 +1,2 @@
-# Bk2500.github.io
-My public repository
+# Bk2500.github.io (Title)
+My public repository (description) 
